@@ -1,2 +1,2 @@
 # svm-vis
-A simple (not-scalable) implementation of SVM using Quafratic programming for visualisation
+A quadratic programming based tool for SVM visualisation.
